@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AU2020_QA App</Name>
+    <Assembly>AU2020_QA/AU2020_QA.dll</Assembly>
+    <AddInId>c7bda7df-6c34-4e75-bb25-fda71dee08b3</AddInId>
+    <FullClassName>AU2020_QA.Revit.App</FullClassName>
+    <VendorId>AU2020_QA</VendorId>
+    <VendorDescription>AU2020_QA</VendorDescription>
+    <AllowLoadingIntoExistingSession>true</AllowLoadingIntoExistingSession>
+  </AddIn>
+</RevitAddIns>

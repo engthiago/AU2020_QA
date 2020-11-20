@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AU2020_QA", "AU2020_QA\AU2020_QA.csproj", "{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		D2019|x64 = D2019|x64
+		D2020|x64 = D2020|x64
+		D2021|x64 = D2021|x64
+		R2019|x64 = R2019|x64
+		R2020|x64 = R2020|x64
+		R2021|x64 = R2021|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2019|x64.ActiveCfg = D2019|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2019|x64.Build.0 = D2019|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2020|x64.ActiveCfg = D2020|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2020|x64.Build.0 = D2020|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2021|x64.ActiveCfg = D2021|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.D2021|x64.Build.0 = D2021|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2019|x64.ActiveCfg = R2019|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2019|x64.Build.0 = R2019|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2020|x64.ActiveCfg = R2020|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2020|x64.Build.0 = R2020|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2021|x64.ActiveCfg = R2021|x64
+		{C7BDA7DF-6C34-4E75-BB25-FDA71DEE08B3}.R2021|x64.Build.0 = R2021|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA87A9DB-A3B6-48A4-8691-3B05EB33C19B}
+	EndGlobalSection
+EndGlobal
